@@ -39,9 +39,6 @@
 
 ---------------------------------------
 
-198	AI based Voice Assistant
-199	Helmet-and-Number-Plate-Detection-and-Recognition
-200	Student Performance Prediction in online courses using ensemble learning.
 
 
 
